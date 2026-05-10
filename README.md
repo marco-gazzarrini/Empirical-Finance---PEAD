@@ -2,7 +2,7 @@
 ### Revisiting the Post-Earnings Announcement Drift (PEAD)
 
 **Course:** Empirical Finance – Católica Lisbon School of Business and Economics  
-**Authors:** Alexandre Rocha, Bruno Morais, Marco Gazzarrini, Riccardo Berruti, Severin Blumenthal  
+**Authors:** Marco Gazzarrini, Alexandre Rocha, Bruno Morais,  Riccardo Berruti, Severin Blumenthal  
 **Supervisors:** José Faias, Zoë Venter
 
 ---
